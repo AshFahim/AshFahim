@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshFahim
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python/Java/C++
 - 💞️ I’m looking to collaborate on Simple Projects
 - 📫 How to reach me: fahimashiqrrahman@gmail.com
 
