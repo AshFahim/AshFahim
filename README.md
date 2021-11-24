@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🧑‍💻 Interested in **competitive programing**
+- 🧑‍💻 Interested in **Competitive Programing**
 
 - 📫 How to reach me **ash.fahim.x@gmail.com**
 
