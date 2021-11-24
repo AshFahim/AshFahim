@@ -37,7 +37,7 @@
 
 <br />
 
-  <summary>🔥 GitHub Stats</summary>
+<h3 align="center">📉 GitHub Stats 📈</h3>
 <p align="center">
    <table>
       <tr>
