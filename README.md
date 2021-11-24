@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[A land measurement App]()**
+- 🔭 I’m currently working on **A land measurement App**
 
 - 🌱 I’m currently learning **Flutter**
 
