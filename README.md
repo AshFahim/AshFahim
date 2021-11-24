@@ -35,16 +35,24 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<br />
 
-  <br/>
-    <a href="https://github.com/AshFahim/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshFahim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AshFahim/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshFahim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <summary>🔥 GitHub Stats</summary>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=AshFahim&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshFahim&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
 
 <br/>
-<b
+
 <br/>
 
 ## Connect with me:
