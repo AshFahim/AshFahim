@@ -1,6 +1,6 @@
 <div style="text-align:center">
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/bVQTPb4.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/bVQTPb4.png" height="100px"/></a>
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fahim</h1>
 <h3 align="center">I'm a student of Computer Science & Engineering and Casual Gamer.</h3>
