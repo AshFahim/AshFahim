@@ -122,7 +122,7 @@
 
 <p align="left">
 
-<a href = "https://www.instagram.com/ash_fahim/?hl=en"><img width="40" src="https://i.imgur.com/0ojFWxF.png"/></a>
+
 <a href = "https://twitter.com/ash_fahimm"><img width="40" src="https://i.imgur.com/SUt0wNJ.png"/></a>
 <a href = "https://www.linkedin.com/in/ash-fahim/"><img width="40" src="https://i.imgur.com/GwTd8Sf.png"/></a>
 <a href = "https://discordapp.com/users/473137017757368322/"><img width="40" src="https://i.imgur.com/2WvJKWk.png"/></a>
