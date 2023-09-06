@@ -24,6 +24,8 @@
 
 - ⚡ Fun fact about me **Kisu nai**
 
+<br>
+
 ## 🚀 Languages and Tools:
 
 <table style="margin: auto; margin-bottom: 15px;">
