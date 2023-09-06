@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://i.imgur.com/P5aeF3Cb.png"">
+  <img width="300" src="https://i.imgur.com/bVQTPb4.png"">
 <!-- <p align="center">
   <a href="https://b14ck0ps.github.io">https://b14ck0ps.github.io</a>
   
