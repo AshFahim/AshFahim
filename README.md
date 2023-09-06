@@ -10,7 +10,7 @@
 <h3 align="center">I'm a student of Computer Science & Engineering and Casual gamer.</h3>
 <br>
 
-## 🙋‍♂️ Information About Me
+## 🙋‍♂️ Information About Me 
 
 - 🔭 I’m currently working on **A land measurement App**
 
@@ -118,7 +118,7 @@
   </tr>
 </table>
 
-## 🤝 Connect with me:
+## 🤝 Connect With Me:
 
 <p align="left">
 
