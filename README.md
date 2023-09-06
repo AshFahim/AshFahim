@@ -66,7 +66,7 @@
   </tr>
 </table>
 <br>
-<table style="margin: auto; margin-bottom: 15px;">
+<table class="center" style="margin: auto; margin-bottom: 15px;">
   <tr>
     <th style="text-align: center;">Languages</th>
   </tr>
@@ -83,6 +83,7 @@
       <img width="40" src="https://i.imgur.com/RcFhqDv.png" alt="SQL">
     </td>
 </table>
+<br>
 
 ## 📉 GitHub Stats 📈
 
@@ -117,6 +118,7 @@
     </td>
   </tr>
 </table>
+<br> 
 
 ## 🤝 Connect With Me:
 
