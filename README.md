@@ -101,25 +101,6 @@
      </tr>
    </table>
 </p>
-
-<table>
-  <tr>
-    <th>Discord</th>
-    <th>Steam</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://discordapp.com/users/473137017757368322">
-        <img align="left" alt="Azran's discord" src="https://discord.c99.nl/widget/theme-4/473137017757368322.png" />
-      </a>
-    </td>
-    <td>
-      <a href="https://steamcommunity.com/id/fox_kid/">
-        <img width="400" height="140" src="https://card.yuy1n.io/card/76561198952313546/dark,en,badge,bg-game">
-      </a>
-    </td>
-  </tr>
-</table>
 <br> 
 
 ## 🤝 Connect With Me:
