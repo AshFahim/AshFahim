@@ -75,14 +75,14 @@
   <tr>
     <td>
       <!-- Languages -->
-      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/fBbDhL8.png" alt="Python"> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/ebIT2kU.png" alt="C++"> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/XvIHNB6.png" alt="C"> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/gQcqAZL.png" alt="Java"> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mwfXKr5.png" alt="Dart"> </a>
-       <a href="" target="_blank" rel="noreferrer"><img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript"> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/2zauUAo.png" alt="PHP"> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/RcFhqDv.png" alt="SQL"> </a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/fBbDhL8.png" alt="Python"> </a>
+      <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/ebIT2kU.png" alt="C++"> </a>
+      <a href=https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/XvIHNB6.png" alt="C"> </a>
+      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/gQcqAZL.png" alt="Java"> </a>
+      <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mwfXKr5.png" alt="Dart"> </a>
+       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript"> </a>
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/2zauUAo.png" alt="PHP"> </a>
+      <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/RcFhqDv.png" alt="SQL"> </a>
     </td>
 </table>
 <br>
