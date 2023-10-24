@@ -45,25 +45,25 @@
     </td>
     <td>
       <!-- IDE -->
-      <img width="40" src="https://i.imgur.com/xPCHbol.png" alt="Visual Studio">
-      <img width="40" src="https://i.imgur.com/o2eJwjS.png" alt="VS code">
-      <img width="40" src="https://i.imgur.com/8RAcHjp.png" alt="Jet Brains">
-      <img width="40" src="https://i.imgur.com/mOtZXCc.png" alt="Vim">
-      <img width="40" src="https://i.imgur.com/C6XhrQi.png" alt="Sublime Text">
+      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/xPCHbol.png" alt="Visual Studio"> </a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/o2eJwjS.png" alt="VS code"> </a>
+      <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/8RAcHjp.png" alt="Jet Brains"> </a>
+      <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mOtZXCc.png" alt="Vim"> </a>
+      <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/C6XhrQi.png" alt="Sublime Text"> </a>
     </td>
     <td>
       <!-- db -->
-      <img width="40" src="https://i.imgur.com/VFIL02m.png" alt="MySQL">
-      <img width="40" src="https://i.imgur.com/3GSletB.png" alt="MongoDB">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/VFIL02m.png" alt="MySQL"> </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/3GSletB.png" alt="MongoDB"> </a>
     </td>
     <td>
       <!-- tools -->
-      <img width="40" src="https://i.imgur.com/BcRZwi0.png" alt="Linux">
-      <img width="40" src="https://i.imgur.com/67tIoa4.png" alt="Git">
-      <img width="40" src="https://i.imgur.com/mCUiCIm.png" alt="Adobe">
-      <img width="40" src="https://i.imgur.com/bQNLVwH.png" alt="Figma">
-      <img width="40" src="https://i.imgur.com/X5e0bWR.png" alt="Arduino">
-      <img width="40" src="https://i.imgur.com/wOhq2gN.png" alt="Android Studio">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/BcRZwi0.png" alt="Linux"> </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/67tIoa4.png" alt="Git"> </a>
+      <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mCUiCIm.png" alt="Adobe"> </a>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/bQNLVwH.png" alt="Figma"> </a>
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/X5e0bWR.png" alt="Arduino"> </a>
+      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/wOhq2gN.png" alt="Android Studio"> </a>
     </td>
   </tr>
 </table>
@@ -75,14 +75,14 @@
   <tr>
     <td>
       <!-- Languages -->
-      <img width="40" src="https://i.imgur.com/fBbDhL8.png" alt="Python">
-      <img width="40" src="https://i.imgur.com/ebIT2kU.png" alt="C++">
-      <img width="40" src="https://i.imgur.com/XvIHNB6.png" alt="C">
-      <img width="40" src="https://i.imgur.com/gQcqAZL.png" alt="Java">
-      <img width="40" src="https://i.imgur.com/mwfXKr5.png" alt="Dart">
-      <img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript">
-      <img width="40" src="https://i.imgur.com/2zauUAo.png" alt="PHP">
-      <img width="40" src="https://i.imgur.com/RcFhqDv.png" alt="SQL">
+      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/fBbDhL8.png" alt="Python"> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/ebIT2kU.png" alt="C++"> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/XvIHNB6.png" alt="C"> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/gQcqAZL.png" alt="Java"> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mwfXKr5.png" alt="Dart"> </a>
+       <a href="" target="_blank" rel="noreferrer"><img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript"> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/2zauUAo.png" alt="PHP"> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/RcFhqDv.png" alt="SQL"> </a>
     </td>
 </table>
 <br>
