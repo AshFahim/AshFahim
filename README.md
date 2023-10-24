@@ -39,7 +39,7 @@
     <td>
       <!-- frameworks -->
       <a href="laravel.com" target="_blank"><img width="40" src="https://i.imgur.com/w9WD01E.png" alt="Laravel"></a>
-      <a href="https://getbootstrap.com" target="_blank"><img width="40" src="https://i.imgur.com/GmFD4wf.png" alt="Bootstrap"></a>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img width="40" src="https://i.imgur.com/GmFD4wf.png" alt="Bootstrap"></a>
       <img width="40" src="https://i.imgur.com/K6unb19.png" alt="Tailwind">
       <img width="40" src="https://i.imgur.com/TliCb8o.png" alt="Flutter">
     </td>
