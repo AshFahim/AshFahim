@@ -10,7 +10,7 @@
 <h3 align="center">I'm a student of Computer Science & Engineering and Casual gamer.</h3>
 <br>
 
-## 🙋‍♂️ Information About Me
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **A land measurement App**
 
@@ -28,67 +28,27 @@
 
 ## 🚀 Languages and Tools:
 
-<table style="margin: auto; margin-bottom: 15px;">
-  <tr>
-    <th style="text-align: center;">Frameworks / Lib</th>
-    <th style="text-align: center;">IDE / Editor</th>
-    <th style="text-align: center;">DB</th>
-    <th style="text-align: center;">Tools / Env</th>
-  </tr>
-  <tr>
-    <td>
-      <!-- frameworks -->
-      <a href="laravel.com" target="_blank"><img width="40" src="https://i.imgur.com/w9WD01E.png" alt="Laravel"></a>
-      <a href="https://getbootstrap.com" target="_blank"><img width="40" src="https://i.imgur.com/GmFD4wf.png" alt="Bootstrap"></a>
-      <img width="40" src="https://i.imgur.com/K6unb19.png" alt="Tailwind">
-      <img width="40" src="https://i.imgur.com/TliCb8o.png" alt="Flutter">
-    </td>
-    <td>
-      <!-- IDE -->
-      <img width="40" src="https://i.imgur.com/xPCHbol.png" alt="Visual Studio">
-      <img width="40" src="https://i.imgur.com/o2eJwjS.png" alt="VS code">
-      <img width="40" src="https://i.imgur.com/8RAcHjp.png" alt="Jet Brains">
-      <img width="40" src="https://i.imgur.com/mOtZXCc.png" alt="Vim">
-      <img width="40" src="https://i.imgur.com/C6XhrQi.png" alt="Sublime Text">
-    </td>
-    <td>
-      <!-- db -->
-      <img width="40" src="https://i.imgur.com/VFIL02m.png" alt="MySQL">
-      <img width="40" src="https://i.imgur.com/3GSletB.png" alt="MongoDB">
-    </td>
-    <td>
-      <!-- tools -->
-      <img width="40" src="https://i.imgur.com/BcRZwi0.png" alt="Linux">
-      <img width="40" src="https://i.imgur.com/67tIoa4.png" alt="Git">
-      <img width="40" src="https://i.imgur.com/mCUiCIm.png" alt="Adobe">
-      <img width="40" src="https://i.imgur.com/bQNLVwH.png" alt="Figma">
-      <img width="40" src="https://i.imgur.com/X5e0bWR.png" alt="Arduino">
-      <img width="40" src="https://i.imgur.com/wOhq2gN.png" alt="Android Studio">
-    </td>
-  </tr>
-</table>
-<br>
-<table class="center" style="margin: auto; margin-bottom: 15px;">
-  <tr>
-    <th style="text-align: center;">Languages</th>
-  </tr>
-  <tr>
-    <td>
-      <!-- Languages -->
-      <img width="40" src="https://i.imgur.com/fBbDhL8.png" alt="Python">
-      <img width="40" src="https://i.imgur.com/ebIT2kU.png" alt="C++">
-      <img width="40" src="https://i.imgur.com/XvIHNB6.png" alt="C">
-      <img width="40" src="https://i.imgur.com/gQcqAZL.png" alt="Java">
-      <img width="40" src="https://i.imgur.com/mwfXKr5.png" alt="Dart">
-      <img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript">
-      <img width="40" src="https://i.imgur.com/2zauUAo.png" alt="PHP">
-      <img width="40" src="https://i.imgur.com/RcFhqDv.png" alt="SQL">
-    </td>
-</table>
-<br>
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> </a>
+</p>
 
-## 📉 GitHub Stats 📈
+<br/>
 
+<p align="center">
+    <a href="https://github.com/AshFahim/ github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AshFahim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshFahim&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br />
+
+<h3 align="center">📉 GitHub Stats 📈</h3>
 <p align="center">
    <table>
       <tr>
@@ -101,15 +61,18 @@
      </tr>
    </table>
 </p>
-<br>
+
+<br/>
+
+<br/>
 
 ## 🤝 Connect With Me:
 
 <p align="left">
 
-<a href = "https://discordapp.com/users/473137017757368322/"><img width="40" src="https://i.imgur.com/2WvJKWk.png"/></a>
-<a href = "https://www.linkedin.com/in/ash-fahim/"><img width="40" src="https://i.imgur.com/GwTd8Sf.png"/></a>
-<a href = "https://twitter.com/ash_fahimm"><img width="40" src="https://i.imgur.com/SUt0wNJ.png"/></a>
+<a href = "https://www.instagram.com/ash_fahim/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/ash_fahimm"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/ash-fahim/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
@@ -119,3 +82,5 @@
     <img src="https://komarev.com/ghpvc/?username=AshFahim">
 </a>
 <a href="https://github.com/AshFahim?tab=followers"><img src="https://img.shields.io/github/followers/AshFahim?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
