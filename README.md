@@ -42,6 +42,8 @@
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/GmFD4wf.png" alt="Bootstrap"> </a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/K6unb19.png" alt="Tailwind"> </a>
       <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/TliCb8o.png" alt="Flutter"> </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/peVVEqF.png" alt="Flask"> </a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/UidgBVG.png" alt="FastAPI"> </a>
     </td>
     <td>
       <!-- IDE -->
