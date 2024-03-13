@@ -12,9 +12,9 @@
 
 ## 🙋‍♂️ Information About Me
 
-- 🔭 I’m currently working on **A land measurement App**
+- 🔭 I’m currently working on **My undergraduate thesis**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
