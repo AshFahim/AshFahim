@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **My undergraduate thesis**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
