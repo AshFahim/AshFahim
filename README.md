@@ -5,14 +5,13 @@
   
 </p> -->
 </p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fahim</h1>
-<h3 align="center">I'm a student of Computer Science & Engineering and Casual gamer✨</h3>
+<h3 align="center">Software engineer exploring scalable tech. Casual gamer.✨</h3>
 <br>
 
 ## 🙋‍♂️ Information About Me
 
-- 🔭 I’m currently working on **My undergraduate thesis**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **GoLang**
 
@@ -22,7 +21,7 @@
 
 - 📫 How to reach me **fahimashqurrahman@gmail.com**
 
-- ⚡ Fun fact about me **Kisu nai**
+- ⚡ Fun fact about me **Still hoping to finish a project I paused two years ago**
 
 <br>
 
